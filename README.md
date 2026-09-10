@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋 I'm Jumana!
 
-<!--
-**jumana-vc/jumana-vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | BCA Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA graduate currently pursuing Data Analytics and exploring the world of data, visualization, and technology.
+
+🌱 Currently Learning
+
+🐍 Python
+🗄️ SQL
+📊 Excel
+📈 Power BI
+📉 Tableau
+🔢 NumPy
+
+🚀 My Project
+
+Vehicle Damage Detection and Cost Estimation
+An AI-based academic project focused on detecting vehicle damage and estimating repair costs, and support the insurance claim process.
+
+💡 What I'm Interested In
+
+📊 Data Analytics
+📈 Data Visualization
+🤖 AI & Technology
+🌱 Continuous Learning
+
+🤝 Let's Connect
+
+📍 Kannur, Kerala, India
+💼 LinkedIn — https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386

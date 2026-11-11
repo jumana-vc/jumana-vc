@@ -37,7 +37,7 @@ Turning Data into Meaningful Insights ✨
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀Projects
 
 ### Customer Churn Analysis
 Exploratory Data Analysis using Python.

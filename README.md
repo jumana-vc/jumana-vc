@@ -19,12 +19,19 @@
 
 *Small, useful work over vague claims.*
 
-## Core toolkit
 
 ## Core toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi,tableau,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" alt="Python, SQL, Pandas and NumPy"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 ## Selected work
 

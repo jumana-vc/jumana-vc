@@ -1,69 +1,48 @@
- <div align="center">
-
-# Hi, I'm Jumana 👋
-
-### Aspiring Data Analyst
-
-Turning Data into Meaningful Insights ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:334155,100:0D9488&height=160&section=header" width="100%"/>
-
-</div>
-
-## 👩‍💻 About Me
-
-- 🎓 BCA Graduate
-- 📊 Currently pursuing Data Analytics
-- 🐍 Interested in Python and Data Analysis
-- 📈 Exploring data visualization and insights
-- 🌱 Always learning and improving my skills
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-## 📊 GitHub Statistics
+## Profile snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jumana-vc&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc hero visual" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumana-vc&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
-## 🚀Projects
-
-### Customer Churn Analysis
-Exploratory Data Analysis using Python.
-
-**Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jumana-vc/jumana-vc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<p><b>Product-minded developer</b></p>
 
 </div>
 
-## 🤝 Connect With Me
+## About
 
-<div align="center">
+> BCA Graduate | Aspiring Data Analyst | Python • SQL • Excel • Power BI
 
-<a href="https://github.com/jumana-vc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- 📍 Based in **Kannur, Kerala, India**
+- 👥 **0** followers · **0** following
 
-</div>
+*Small, useful work over vague claims.*
 
-<div align="center">
+## Core toolkit
 
-*Thanks for visiting my profile! 💚*
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc stack visual" />
+</p>
 
-</div>
+## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc projects visual" />
+</p>
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc social visual" />
+</p>
+
+<a href="https://github.com/jumana-vc">GitHub</a>
+
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=jumana-vc&theme=satan" alt="jumana-vc contribution activity" />
+</p>
+
+<p align="center"><sub>Fathimathul jumana vc · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

@@ -21,10 +21,11 @@
 
 ## Core toolkit
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc stack visual" />
-</p>
+## Core toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi,tableau,pandas,numpy,matplotlib" />
+</p>
 ## Selected work
 
 <p align="center">

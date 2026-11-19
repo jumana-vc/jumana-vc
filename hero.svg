@@ -1,0 +1,78 @@
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B"/>
+      <stop offset="45%" stop-color="#6D28D9"/>
+      <stop offset="75%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.65"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="300" rx="16" fill="#0D1117"/>
+  <rect width="850" height="300" rx="16" fill="url(#sky)"/>
+  <rect width="850" height="300" rx="16" fill="url(#overlay)"/>
+
+  <!-- Stars -->
+  <g fill="#F0F6FC" opacity="0.8">
+    <circle cx="90" cy="55" r="1.5"/>
+    <circle cx="180" cy="90" r="1"/>
+    <circle cx="300" cy="45" r="1.5"/>
+    <circle cx="420" cy="75" r="1"/>
+    <circle cx="560" cy="42" r="1.5"/>
+    <circle cx="690" cy="80" r="1"/>
+    <circle cx="780" cy="45" r="1.5"/>
+    <circle cx="740" cy="130" r="1"/>
+    <circle cx="120" cy="145" r="1"/>
+  </g>
+
+  <!-- Moon -->
+  <circle cx="700" cy="85" r="29" fill="#F0F6FC" opacity="0.95"/>
+  <circle cx="714" cy="73" r="27" fill="#8B49B8"/>
+
+  <!-- Mountains -->
+  <path d="M0 235 L130 125 L245 230 L370 115 L520 235 L650 140 L850 245 L850 300 L0 300Z"
+        fill="#161B22" opacity="0.85"/>
+  <path d="M0 260 L170 175 L310 265 L470 170 L620 265 L760 185 L850 245 L850 300 L0 300Z"
+        fill="#0D1117"/>
+
+  <!-- Pine trees -->
+  <g fill="#0D1117">
+    <path d="M55 300 L75 220 L95 300Z"/>
+    <path d="M80 300 L105 205 L130 300Z"/>
+    <path d="M720 300 L745 205 L770 300Z"/>
+    <path d="M765 300 L790 220 L815 300Z"/>
+  </g>
+
+  <!-- Text -->
+  <text x="425" y="105" text-anchor="middle"
+        fill="#F0F6FC" font-size="27"
+        font-family="cursive" font-style="italic">
+    Hey, I'm
+  </text>
+
+  <text x="425" y="165" text-anchor="middle"
+        fill="#FFFFFF" font-size="58"
+        font-weight="bold" letter-spacing="2"
+        font-family="Arial, Helvetica, sans-serif">
+    JUMANA
+  </text>
+
+  <text x="425" y="200" text-anchor="middle"
+        fill="#F0F6FC" font-size="16"
+        letter-spacing="5"
+        font-family="Arial, Helvetica, sans-serif">
+    ASPIRING DATA ANALYST
+  </text>
+
+  <text x="425" y="230" text-anchor="middle"
+        fill="#E6EDF3" font-size="13"
+        font-family="Arial, Helvetica, sans-serif">
+    Turning data into meaningful insights
+  </text>
+</svg>
+```

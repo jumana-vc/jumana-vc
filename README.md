@@ -1,89 +1,81 @@
-<!-- ========================= --><!--        HERO SECTION       --><!-- ========================= --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:120A24,35:4B1D63,65:8E3D72,100:E56B35&height=300&section=header&text=JUMANA&fontSize=58&fontColor=FFF4E8&animation=fadeIn&fontAlignY=45&desc=BCA%20Graduate%20%7C%20Aspiring%20Data%20Analyst&descSize=18&descAlignY=63&descColor=F7DFFF"/><br><table>
-<tr>
-<td width="62%" align="left">Hey, I'm Jumana 👋
+<div align="center">
 
-"BCA Graduate" • "Aspiring Data Analyst"
+<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:080B18,35:11132D,70:29205B,100:443078&section=header" />
+
+<!-- HANDWRITTEN INTRO -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&duration=3000&pause=1000&color=A34D78&center=true&vCenter=true&width=400&lines=Hey%2C+I'm" />
+</p>
+
+<!-- MAIN NAME -->
+<h1>
+  <span style="color:#F0F6FC;">JUMANA</span>
+</h1>
+
+<!-- SUBTITLE -->
+<p>
+  <b>ASPIRING DATA ANALYST</b>
+</p>
 
 <p>
-I’m building my journey in <b>Data Analytics</b> through
-Python, SQL, Excel and Power BI.
-</p><p>
-Turning data into insights, one dataset at a time.
-</p></td><td width="38%" align="center"><img src="https://i.pinimg.com/736x/7e/7d/6d/7e7d6d3c7f4b9b7c6a1a6a6c0f7c8e4a.jpg"
-width="260"
-alt="Data analytics visual"/>
+  <i>Turning data into meaningful insights.</i>
+</p>
 
-</td>
-</tr>
-</table><br><a href="#home">⌂ Home</a>
-  •  
-<a href="#about-me">About</a>
-  •  
-<a href="#tech-stack">Skills</a>
-  •  
-<a href="#projects">Projects</a>
-  •  
-<a href="#connect">Contact</a>
+<p>
+  BCA Graduate • Python • SQL • Excel • Power BI
+</p>
 
-</div>---
+<br/>
 
-<a name="about-me"></a>
+</div>
 
-✦ About Me
+<!-- ABOUT ME -->
+<h2 align="center">About Me</h2>
 
-<div align="center">«Curious about data. Focused on learning. Building towards a career in Data Analytics.»
+<p align="center">
+  I'm a BCA graduate passionate about Data Analytics.
+  I enjoy exploring datasets, discovering patterns and
+  transforming raw data into meaningful insights.
+</p>
 
-</div>I’m a BCA graduate currently developing my skills in Data Analytics and working towards becoming a job-ready Data Analyst.
+<br/>
 
-I enjoy exploring datasets, finding patterns, creating visualizations and understanding how data can support better decisions.
+<!-- SKILLS -->
+<h2 align="center">Technical Skills</h2>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
 
-<a name="tech-stack"></a>
+<p align="center">
+  Excel • Power BI • Tableau • Statistics
+</p>
 
-🛠️ Tech Stack
+<br/>
 
-<div align="center">🐍 Python   •   🗄️ SQL
+<!-- CURRENTLY LEARNING -->
+<h2 align="center">Currently Learning</h2>
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" /><br><br>
+<p align="center">
+  Data Analytics • Data Visualization • SQL
+</p>
 
-📊 Analytics & Visualization
+<br/>
 
-<img src="https://img.shields.io/badge/Excel-6B4EFF?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-FF8A3D?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-EA4C89?style=for-the-badge&logo=tableau&logoColor=white"/><br><br>
+<!-- CONNECT -->
+<h2 align="center">Connect With Me</h2>
 
-📚 Python Libraries
+<p align="center">
+  <a href="https://github.com/jumana-vc">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-7B61FF?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4C9AFF?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-C75CFF?style=for-the-badge&logo=python&logoColor=white"/></div>---
+<br/>
 
-<a name="projects"></a>
+<div align="center">
 
-✦ Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:443078,50:11132D,100:080B18&section=footer" />
 
-<div align="center">More projects coming soon...
-
-</div>---
-
-🌙 Currently Learning
-
-<div align="center">"Data Cleaning" → "SQL" → "Statistics" → "Power BI" → "Data Visualization"
-
-</div>---
-
-<a name="connect"></a>
-
-✦ Let's Connect
-
-<div align="center"><a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-8E3D72?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/jumana-vc">
-<img src="https://img.shields.io/badge/GitHub-4B1D63?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br><br>
-
-<i>Learning • Analysing • Building</i>
-
-</div><br><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:120A24,35:4B1D63,65:8E3D72,100:E56B35&height=120&section=footer"/></div>
+</div>

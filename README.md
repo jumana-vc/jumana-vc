@@ -1,56 +1,63 @@
+\<div align="center">
 
+# Jumana
 
-<div align="center">
+### Aspiring Data Analyst
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc hero visual" />
-</p>
+Turning data into meaningful insights.
 
-<p><b>Product-minded developer</b></p>
+\</div>
 
-</div>
+---
 
-## About
+## About Me
 
-> BCA Graduate | Aspiring Data Analyst | Python • SQL • Excel • Power BI
+I'm an aspiring Data Analyst with an interest in exploring data, identifying patterns, and solving business problems through data-driven insights.
 
-- 📍 Based in **Kannur, Kerala, India**
-- 👥 **0** followers · **0** following
+Currently developing my skills in data analysis, visualization, and machine learning through practical projects.
 
-*Small, useful work over vague claims.*
+## Technical Skills
 
+\<div align="center">
 
-## Core toolkit
+**Programming & Data Analysis**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" alt="Python, SQL, Pandas and NumPy"/>
-</p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
-## Selected work
+**Visualization & Tools**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc projects visual" />
-</p>
+\<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)"/>
 
-## Let’s connect
+**Data Visualization Libraries**
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=jumana-vc&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F327466528%3Fu%3D4fee7f8c3e6b9514f0a278e24b65b02861f280e8%26v%3D4" alt="jumana-vc social visual" />
-</p>
+\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)"/>
 
-<a href="https://github.com/jumana-vc">GitHub</a>
+\</div>
 
-## Activity
+## Featured Project
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jumana-vc&theme=satan" alt="jumana-vc contribution activity" />
-</p>
+### Customer Churn Analysis and Prediction
 
-<p align="center"><sub>Fathimathul jumana vc · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- Performed exploratory data analysis on telecom customer data.
+- Identified patterns associated with customer churn.
+- Implemented and evaluated six machine learning algorithms.
+- Achieved 96.14% accuracy using Random Forest.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+
+## Education
+
+- Bachelor of Computer Applications (BCA)
+- Data Analytics – IPCS Global
+
+## Connect With Me
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/](https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:jumanajaleel205\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a> \<a href="[https://github.com/jumana-vc](https://github.com/jumana-vc)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
+
+\</div>

@@ -1,63 +1,36 @@
-\<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hi,%20I'm%20Jumana!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Graduate%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&descSize=18" width="100%"/><br /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5E6FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Excel+%7C+Power+BI" /><br /><br />
 
-# Jumana
+<p>
+  <i>Exploring data, finding patterns, and turning numbers into meaningful insights.</i>
+</p></div>---
 
-### Aspiring Data Analyst
+✦ About Me
 
-Turning data into meaningful insights.
+Hi! I'm Jumana, a BCA graduate with a growing focus on Data Analytics.
 
-\</div>
+I'm currently developing my skills in data analysis, visualization, and business-oriented problem solving while building practical projects and learning new tools.
 
 ---
 
-## About Me
+🛠️ Tech Stack
 
-I'm an aspiring Data Analyst with an interest in exploring data, identifying patterns, and solving business problems through data-driven insights.
+<div align="center">📊 Data Analytics
 
-Currently developing my skills in data analysis, visualization, and machine learning through practical projects.
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" /><br /><br />
 
-## Technical Skills
+<img src="https://img.shields.io/badge/Excel-6B4EFF?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-FF8A3D?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-EA4C89?style=for-the-badge&logo=tableau&logoColor=white"/><br /><br />
 
-\<div align="center">
+🐍 Python Libraries
 
-**Programming & Data Analysis**
+<img src="https://img.shields.io/badge/Pandas-7B61FF?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-4C9AFF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-F28C28?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-C75CFF?style=for-the-badge&logo=python&logoColor=white"/></div>---
 
-\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
+<div align="center">✨ What I'm Working Towards
 
-**Visualization & Tools**
+Data Analyst → International Career → Continuous Learning
 
-\<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)"/>
-\<img src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)"/>
-
-**Data Visualization Libraries**
-
-\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)"/>
-
-\</div>
-
-## Featured Project
-
-### Customer Churn Analysis and Prediction
-
-- Performed exploratory data analysis on telecom customer data.
-- Identified patterns associated with customer churn.
-- Implemented and evaluated six machine learning algorithms.
-- Achieved 96.14% accuracy using Random Forest.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-
-## Education
-
-- Bachelor of Computer Applications (BCA)
-- Data Analytics – IPCS Global
-
-## Connect With Me
-
-\<div align="center">
-
-\<a href="[https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/](https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/> \</a> \<a href="mailto\:jumanajaleel205\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a> \<a href="[https://github.com/jumana-vc](https://github.com/jumana-vc)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
-
-\</div>
+<br /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=100&section=footer"/></div>

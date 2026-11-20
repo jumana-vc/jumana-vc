@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Jumana - Data Analyst">
+  <img src="./hero.png" width="100%" alt="Jumana - Data Analyst">
 </p>
 
 <br>

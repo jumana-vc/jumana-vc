@@ -18,9 +18,7 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -62,7 +60,11 @@ Customer behaviour analysis and churn prediction using Machine Learning.
 <p align="center">
 Python · Pandas · NumPy · Seaborn · Scikit-learn
 </p>
-
+<p align="center">
+  <a href="https://github.com/jumana-vc/Customer-Churn-Analysis-Prediction">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-9B7BCE?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 </td>
 </tr>
 </table>

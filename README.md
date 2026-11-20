@@ -66,6 +66,7 @@ Python · Pandas · NumPy · Seaborn · Scikit-learn
 </td>
 </tr>
 </table>
+
 </div>
 <h2 align="center">
   <img src="https://img.shields.io/badge/✦%20LET'S%20CONNECT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>

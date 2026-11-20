@@ -36,19 +36,22 @@
 
 
 
-<h2 align="center">🌐 LET'S CONNECT</h2>
+<!-- CONNECT -->
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/jumana-vc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:jumanajaleel205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC"/>
   </a>
 </p>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:443078,50:11132D,100:080B18&section=footer" />
+
+</div>
 
 <p align="center">
   <i>Code. Explore. Analyse. Grow. ✨</i>

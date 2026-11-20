@@ -71,18 +71,22 @@ Python · Pandas · NumPy · Seaborn · Scikit-learn
 <h2 align="center">
   <img src="https://img.shields.io/badge/✦%20LET'S%20CONNECT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
 </h2>
+
+<div align="center">
+
 <a href="https://github.com/jumana-vc">
-<img src="https://img.shields.io/badge/GitHub-4B1D63?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-4B1D63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/">
-<img src="https://img.shields.io/badge/LinkedIn-8E3D72?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8E3D72?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:jumanajaleel205@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E56B35?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:jumanajaleel205@gmail.com">
-<img src="https://img.shields.io/badge/Email-E56B35?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+</div>
 
 <p align="center">
 <i>Learning • Analysing • Building</i>

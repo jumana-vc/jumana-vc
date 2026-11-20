@@ -1,13 +1,10 @@
 <div align="center">
   <img src="hero.png" width="100%" alt="Jumana | Data Analyst"/>
 </div>
-
 <h2 align="center">
   <img src="https://img.shields.io/badge/📁%20MY%20TOOLKIT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
 </h2>
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SQL-8E3D72?style=for-the-badge&logo=postgresql&logoColor=white"/>

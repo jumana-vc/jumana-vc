@@ -12,20 +12,12 @@
 <tr>
 <td align="center">
 
-### DATA ANALYTICS & PROGRAMMING
-
 <img src="https://img.shields.io/badge/Python-7B61FF?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-8E3D72?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4B1D63?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### DATA VISUALIZATION
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-EA4C89?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-### PYTHON LIBRARIES & TOOLS
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-4C9AFF?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-8E3D72?style=for-the-badge&logo=python&logoColor=white"/>

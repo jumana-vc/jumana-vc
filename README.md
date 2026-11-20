@@ -4,27 +4,67 @@
 
 <br>
 
-<h2 align="center">✦ &nbsp; TECH STACK &nbsp; ✦</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/📁%20MY%20TOOLKIT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
+</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
+<b>Python</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
+<b>MySQL</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42"/><br/>
+<b>Excel</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42"/><br/>
+<b>Power BI</b>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Python-7B61FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-8E3D72?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4B1D63?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-EA4C89?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-4C9AFF?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-8E3D72?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-C75CFF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<tr>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="42"/><br/>
+<b>Tableau</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="42"/><br/>
+<b>Pandas</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="42"/><br/>
+<b>NumPy</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42"/><br/>
+<b>Matplotlib</b>
+</td>
+</tr>
 
+<tr>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="42"/><br/>
+<b>Seaborn</b>
+</td>
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42"/><br/>
+<b>Scikit-learn</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br/>
+<b>Jupyter</b>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=vscode" width="42"/><br/>
+<b>VS Code</b>
 </td>
 </tr>
 </table>
@@ -88,7 +128,7 @@ to explore customer behaviour and identify churn patterns.
 <img src="https://img.shields.io/badge/LinkedIn-8E3D72?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jumanajaleel@gmail.com">
+<a href="mailto:jumanajaleel205@gmail.com">
 <img src="https://img.shields.io/badge/Email-E56B35?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>

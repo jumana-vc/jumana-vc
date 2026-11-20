@@ -66,11 +66,10 @@ Python · Pandas · NumPy · Seaborn · Scikit-learn
 </td>
 </tr>
 </table>
-
 </div>
-<h2 align="center">✦ &nbsp; LET'S CONNECT &nbsp; ✦</h2>
-
-<p align="center">
+<h2 align="center">
+  <img src="https://img.shields.io/badge/✦%20LET'S%20CONNECT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
+</h2>
 <a href="https://github.com/jumana-vc">
 <img src="https://img.shields.io/badge/GitHub-4B1D63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>

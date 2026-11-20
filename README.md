@@ -9,65 +9,30 @@
 </h2>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
 <b>Python</b>
-</td>
-<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
 <b>MySQL</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42"/><br/>
 <b>Excel</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42"/><br/>
 <b>Power BI</b>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/tableau/E97627" width="42"/><br/>
 <b>Tableau</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/pandas/150458" width="42"/><br/>
 <b>Pandas</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/numpy/013243" width="42"/><br/>
 <b>NumPy</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42"/><br/>
 <b>Matplotlib</b>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="42"/><br/>
 <b>Seaborn</b>
-</td>
-<td align="center" width="130">
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42"/><br/>
 <b>Scikit-learn</b>
-</td>
-<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br/>
 <b>Jupyter</b>
-</td>
-<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=vscode" width="42"/><br/>
 <b>VS Code</b>
-</td>
-</tr>
-</table>
 
 </div>
 

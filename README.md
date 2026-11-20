@@ -1,79 +1,88 @@
 
-<div align="center">
+<p align="center">
+  <img src="./hero.svg" width="100%" alt="Jumana - Data Analyst">
+</p>
 
-<img src="./hero.svg" width="100%" alt="Jumana - Aspiring Data Analyst"/>
+<br>
 
-<br/>
+<h2 align="center">✦ TECH STACK ✦</h2>
 
-# About Me
+<p align="center">
+  <b>Programming & Data Analysis</b>
+</p>
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
 
-I enjoy exploring datasets, identifying patterns, and presenting findings through data visualization.
+<p align="center">
+  <b>Visualization & Business Intelligence</b>
+</p>
 
-- 🎓 BCA – ITM College of Arts and Science
-- 📊 Data Analytics – IPCS Global
-- 🌱 Currently improving my skills in Python, SQL and Power BI
-- 📍 Kannur, Kerala, India
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-<br/>
+<p align="center">
+  <b>Machine Learning & Tools</b>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
-## 🛠️ My Toolkit
-
-### Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Data Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### Machine Learning & Tools
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br/>
+<br>
 
 ---
 
-## ✨ Featured Project
+<h2 align="center">✦ FEATURED PROJECT ✦</h2>
 
-### Customer Churn Analysis and Prediction
+<h3 align="center">Customer Churn Analysis and Prediction</h3>
 
-An exploratory data analysis and machine learning project focused on understanding customer churn patterns and predicting customers who are likely to leave.
+<p align="center">
+  An exploratory data analysis and machine learning project
+  focused on understanding customer churn patterns and predicting
+  customers who are likely to leave.
+</p>
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+<p align="center">
+  <b>Tools:</b> Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+</p>
 
-[Explore My GitHub Projects](https://github.com/jumana-vc)
+<p align="center">
+  <a href="https://github.com/jumana-vc">
+    <img src="https://img.shields.io/badge/Explore_Project-6D28D9?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-<br/>
+<br>
 
----
 
-## 🤝 Let's Connect
 
-<a href="https://github.com/jumana-vc">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:jumanajaleel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<h2 align="center">✦ LET'S CONNECT ✦</h2>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/jumana-vc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/fathimathul-jumana-vc-6067a1386/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jumanajaleel205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-*Learning, exploring and growing through data.*
+<br>
 
-</div>
+<p align="center">
+  <i>Learning continuously. Exploring possibilities. Finding stories in data.</i>
+</p>

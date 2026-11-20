@@ -36,71 +36,38 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
----
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/✦%20SELECTED%20WORK-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
-</div>
-
-<h2 align="center">FEATURED PROJECT</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/✦%20FEATURED%20PROJECT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
+</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td bgcolor="#211D2B" width="650">
+<td width="550" bgcolor="#211D2B">
 
-<h3 align="center">📊 Telecom Customer Churn Analysis & Prediction</h3>
-
-<p align="center">
-<em>Understanding customer behaviour. Discovering churn patterns.</em>
-</p>
-
-<hr>
+<h3 align="center">📊 Customer Churn Analysis&Prediction</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8E3D72?style=flat-square"/>
-<img src="https://img.shields.io/badge/RANDOM%20FOREST-6B4EFF?style=flat-square"/>
+Customer behaviour analysis and churn prediction using Machine Learning.
 </p>
 
 <p align="center">
-An end-to-end data analytics and machine learning project
-to analyse telecom customer behaviour and identify factors
-associated with customer churn.
+<img src="https://img.shields.io/badge/96.14%25%20Accuracy-8E3D72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-6B4EFF?style=for-the-badge"/>
 </p>
 
-<h3 align="center">✦ PROJECT HIGHLIGHTS ✦</h3>
-
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Customer churn pattern analysis
-- Comparison of six classification algorithms
-- Random Forest model development
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/96.14%25-MODEL%20ACCURACY-9B7BCE?style=for-the-badge"/>
-
-<br><br>
-
-<b>TOOLS & TECHNOLOGIES</b>
-
-<br><br>
-
-Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
-
-</div>
+<p align="center">
+Python · Pandas · NumPy · Seaborn · Scikit-learn
+</p>
 
 </td>
 </tr>
 </table>
 
 </div>
----
 <h2 align="center">✦ &nbsp; LET'S CONNECT &nbsp; ✦</h2>
 
 <p align="center">

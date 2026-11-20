@@ -7,8 +7,6 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/📁%20MY%20TOOLKIT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
 </h2>
-
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
 <b>Python</b>
 <img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
@@ -33,8 +31,6 @@
 <b>Jupyter</b>
 <img src="https://skillicons.dev/icons?i=vscode" width="42"/><br/>
 <b>VS Code</b>
-
-</div>
 
 <br>
 

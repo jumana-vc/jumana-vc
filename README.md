@@ -37,48 +37,70 @@
 
 </div>
 ---
-<h2 align="center">✦ &nbsp; FEATURED PROJECT &nbsp; ✦</h2>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/✦%20SELECTED%20WORK-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
+</div>
+
+<h2 align="center">FEATURED PROJECT</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td bgcolor="#211D2B" width="650">
 
 <h3 align="center">📊 Telecom Customer Churn Analysis & Prediction</h3>
 
 <p align="center">
-An end-to-end data analysis and machine learning project
-to explore customer behaviour and identify churn patterns.
+<em>Understanding customer behaviour. Discovering churn patterns.</em>
+</p>
+
+<hr>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8E3D72?style=flat-square"/>
+<img src="https://img.shields.io/badge/RANDOM%20FOREST-6B4EFF?style=flat-square"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Random_Forest-8E3D72?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Accuracy-96.14%25-6B4EFF?style=for-the-badge"/>
+An end-to-end data analytics and machine learning project
+to analyse telecom customer behaviour and identify factors
+associated with customer churn.
 </p>
 
-**Key Highlights**
+<h3 align="center">✦ PROJECT HIGHLIGHTS ✦</h3>
 
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Customer churn pattern analysis.
-- Comparison of six classification algorithms.
-- Random Forest model development.
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Customer churn pattern analysis
+- Comparison of six classification algorithms
+- Random Forest model development
 
-<p align="center">
-<b>Tools:</b> Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/96.14%25-MODEL%20ACCURACY-9B7BCE?style=for-the-badge"/>
+
+<br><br>
+
+<b>TOOLS & TECHNOLOGIES</b>
+
+<br><br>
+
+Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+
+</div>
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br>
-
 ---
-
 <h2 align="center">✦ &nbsp; LET'S CONNECT &nbsp; ✦</h2>
 
 <p align="center">

@@ -1,41 +1,42 @@
 <div align="center">
   <img src="hero.png" width="100%" alt="Jumana | Data Analyst"/>
 </div>
-
-<br>
-
 <h2 align="center">
   <img src="https://img.shields.io/badge/📁%20MY%20TOOLKIT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
 </h2>
-<img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
-<b>Python</b>
-<img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
-<b>MySQL</b>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42"/><br/>
-<b>Excel</b>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42"/><br/>
-<b>Power BI</b>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="42"/><br/>
-<b>Tableau</b>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="42"/><br/>
-<b>Pandas</b>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="42"/><br/>
-<b>NumPy</b>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42"/><br/>
-<b>Matplotlib</b>
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="42"/><br/>
-<b>Seaborn</b>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42"/><br/>
-<b>Scikit-learn</b>
-<img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br/>
-<b>Jupyter</b>
-<img src="https://skillicons.dev/icons?i=vscode" width="42"/><br/>
-<b>VS Code</b>
 
-<br>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-8E3D72?style=for-the-badge&logo=postgresql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 ---
-
 <h2 align="center">✦ &nbsp; FEATURED PROJECT &nbsp; ✦</h2>
 
 <div align="center">

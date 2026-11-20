@@ -7,30 +7,30 @@
 <h2 align="center">
   <img src="https://img.shields.io/badge/📁%20MY%20TOOLKIT-9B7BCE?style=for-the-badge&labelColor=211D2B"/>
 </h2>
-<img src="https://skillicons.dev/icons?i=python" width="42"/><br/>
-<b>Python</b>
-<img src="https://skillicons.dev/icons?i=mysql" width="42"/><br/>
-<b>MySQL</b>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42"/><br/>
-<b>Excel</b>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42"/><br/>
-<b>Power BI</b>
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="42"/><br/>
-<b>Tableau</b>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="42"/><br/>
-<b>Pandas</b>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="42"/><br/>
-<b>NumPy</b>
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="42"/><br/>
-<b>Matplotlib</b>
-<img src="https://cdn.simpleicons.org/seaborn/4C72B0" width="42"/><br/>
-<b>Seaborn</b>
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42"/><br/>
-<b>Scikit-learn</b>
-<img src="https://skillicons.dev/icons?i=jupyter" width="42"/><br/>
-<b>Jupyter</b>
-<img src="https://skillicons.dev/icons?i=vscode" width="42"/><br/>
-<b>VS Code</b>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,jupyter,vscode" height="48" alt="Python, MySQL, Jupyter, VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tableau/E97627" height="42" alt="Tableau"/>
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/pandas/150458" height="42" alt="Pandas"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/013243" height="42" alt="NumPy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="42" alt="Seaborn"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit-learn"/>
+
+</div>
 
 <br>
 
